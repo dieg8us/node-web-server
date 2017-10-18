@@ -1,0 +1,22 @@
+{
+  "name": "web-server",
+  "version": "1.0.0",
+  "description": "Node web server Example",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/dieg8us/node-web-server.git"
+  },
+  "author": "Diego Uribe",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/dieg8us/node-web-server/issues"
+  },
+  "homepage": "https://github.com/dieg8us/node-web-server#readme",
+  "dependencies": {
+    "express": "^4.14.0"
+  }
+}
